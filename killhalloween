@@ -1,0 +1,7 @@
+#!/bin/bash
+echo "Checking what's running..."
+pgrep -af python | grep halloween
+ps ax | grep omxplayer
+pkill -f halloween.py
+echo "Killing..."
+killall omxplayer.bin
