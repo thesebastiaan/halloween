@@ -1,6 +1,6 @@
 # halloween
 
-Very basic script to play a video file from a directory of mp4's on a Raspberry PI using Omxplayer. Omxplayer does not require a GUI. https://www.raspberrypi.org/documentation/raspbian/applications/omxplayer.md
+This is a very basic script to play a video file from a directory of mp4's on a Raspberry PI using Omxplayer. Omxplayer does not require a GUI. https://www.raspberrypi.org/documentation/raspbian/applications/omxplayer.md
 
 Script has been tested on a Raspberry Pi 2b, 3b and 4b.
 
